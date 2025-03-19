@@ -1,0 +1,6 @@
+gradio==4.15.0 # Or the latest version compatible with your environment
+vaderSentiment==3.3.2 # Or the latest compatible version
+pandas==2.2.0 # Or the latest compatible version
+matplotlib==3.8.2 # Or the latest compatible version
+nltk==3.8.1 # Or the latest compatible version
+plotly==5.18.0 # Or the latest compatible version
